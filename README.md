@@ -27,14 +27,6 @@
     * Converted string data to numerical types in NumPy arrays.
     * Handled missing values (e.g., `NaN` in "Type 2" column).
 
-### Code Snippets / Design Screenshots
-
-**Example 1: Sorting Pokémon by Attack and Defense**
-
-
-**Example 2: Grouping by Type and Calculating Averages**
-
-
 ### Challenges Faced
 
 * **Type casting of Ndarray:** Struggled with type casting of Ndarray as it contains alphabetic and numeric values in object format.
@@ -64,3 +56,14 @@ For Week 3, the focus will be on:
 * Pandas: [Pandas Documentation](https://pandas.pydata.org/docs/)
 * NumPy: [NumPy Guide](https://numpy.org/doc/stable/)
 * Dataset: [Kaggle Dataset](https://www.kaggle.com/datasets/abcsds/pokemon)
+
+## 📁 Repository Structure
+
+```
+὜ NextGen_internship_week2/
+├── 📓 NextGen_week2_task.ipynb
+├── 📄 Internship Weekly Report week2.docx
+└── 📄 README.md
+```
+
+---
